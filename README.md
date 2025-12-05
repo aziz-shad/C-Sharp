@@ -1,4 +1,8 @@
 # C-Sharp
+This application i have developed for a company named MZolutions. This is a some how a tool which automate the internal processess of MZolution. Some tasks Which this application solves listed below.
+* Read data from Pdf and store in SQL Server database.
+* 
+
 Show some interfaces which i have developed in past time to automate the company internal process.
 # Configurations
 Configuration 1:
