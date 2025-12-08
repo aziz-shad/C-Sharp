@@ -1,9 +1,15 @@
 # C-Sharp
 This application i have developed for a company named MZolutions. This is a some how a tool which automate the internal processess of MZolution. Some tasks Which this application solves listed below.
 * Read data from Pdf and store in SQL Server database.
-* 
+* Gernerate Excel sheets
+* Search file at multipule location (OneDrive, on Server using api call)
+* Update file (Protocol) status on server (api call) after each 20 minutes
+* Uploade Pdf files to server
+* Sent Emails to clients (using outlook)
+* Compress pdf & make pdf uneditable
+* many more small tasks scripts
 
-Show some interfaces which i have developed in past time to automate the company internal process.
+Below are some interfaces which accomplish abvoe mentioned tasks, used by the company for there internal processess.
 # Configurations
 Configuration 1:
 <img width="1597" height="695" alt="image" src="https://github.com/user-attachments/assets/537761f2-4b76-4dce-8a74-ece3c55c448a" />
